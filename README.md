@@ -1,2 +1,3 @@
 # UD23-SpringBasics
-Click derecho --> run --> Spring Boot App
+He subido toda la carpeta porque no sabia exactamente que subir.
+Para poner en marcha: click derecho --> run --> Spring Boot App
